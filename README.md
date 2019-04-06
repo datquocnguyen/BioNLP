@@ -17,7 +17,7 @@ Biomedical POS tagging and dependency parsing models are trained on  [GENIA](htt
 	url="https://doi.org/10.1186/s12859-019-2604-0"
 	}
     
-Our models are **free** for non-commercial use and distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)) License. 
+Our models are **free** for non-commercial use and distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)) License. Refer the [license file] (https://github.com/datquocnguyen/BioPosDep/blob/master/LICENSE.md/) for further details. 
 
 <img width="400" alt="pos" src="https://user-images.githubusercontent.com/2412555/53179172-c9de7500-3625-11e9-90ac-17fe3ca016b0.png"> <img width="400" alt="dep" src="https://user-images.githubusercontent.com/2412555/53179163-c6e38480-3625-11e9-954d-9676730e7b27.png">
 
